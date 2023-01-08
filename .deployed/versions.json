@@ -1,0 +1,19 @@
+[
+  {
+    "apihost": "https://faas-fra1-afec6ce7.doserverless.co",
+    "namespace": "fn-788200f8-93a9-47cd-999a-9a57cd19cbf4",
+    "packageVersions": {
+      "coinmate": {
+        "version": "0.0.17",
+        "digest": "d3140274f551731f4a2474c099b19e49d51ad204d5372bc0879e695295492425"
+      }
+    },
+    "actionVersions": {
+      "coinmate/buy": {
+        "version": "0.0.18",
+        "digest": "c4805e2be5736f615599197607f354e9e076b4bc60b6adca8a8aad190ccee4e3"
+      }
+    },
+    "webHashes": {}
+  }
+]
